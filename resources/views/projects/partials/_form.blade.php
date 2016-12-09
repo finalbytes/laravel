@@ -1,7 +1,7 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: kevin
- * Date: 01-12-16
- * Time: 15:49
- */
+<div class="form-group">
+    {!! Form::label('name', 'Naam:')  !!}
+    {!! Form::text('name') !!}
+</div>
+<div class="form-group">
+    {!! Form::submit($submit_text, ['class' => 'btn primary']) !!}
+</div>

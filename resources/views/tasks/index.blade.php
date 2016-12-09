@@ -1,5 +1,5 @@
 @extends('app')
 
 @section('content')
-    Page
+    Task index
 @endsection

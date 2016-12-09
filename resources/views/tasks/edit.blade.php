@@ -1,5 +1,5 @@
 @extends('app')
 
 @section('content')
-    Page
+    Task edit
 @endsection
